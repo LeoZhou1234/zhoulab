@@ -160,9 +160,9 @@ section {
 
 .peopleGridItem p {
   text-align: center;
-  margin: 15x;
-  padding-top: 10cap;
-  font-size: 16px
+  margin: 15px;
+  padding-top: 5px;
+  font-size: 20px
 }
 
 .peopleGridItem img {
